@@ -62,6 +62,7 @@ Eyes: Blue
 >
 ●	update - обновление записи.
 
+
 Формат: update NUMBER NAME AGE HAIRCOLOR EYECOLOR
 
 Поиск записи для обновления идет по ее номеру, поэтому номер не должен меняться
