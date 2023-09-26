@@ -93,21 +93,30 @@ Eyes: Blue
 ●	HAIRCOLOR - строковое значение.
 
 Может принимать только одно из перечисленных значений:
+
 ○	Black
+
 ○	Blonde
+
 ○	Platinum-blonde
+
 ○	Strawberry-blonde
+
 ○	Red
+
 ○	Brown
+
 ●	EYECOLOR - строковое значение.
 
 Может принимать только одно из перечисленных значений:
+
 ○	Brown
+
 ○	Blue
+
 ○	Violet
+
 ○	Hazel
-
-
 
 
 
