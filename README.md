@@ -1,5 +1,6 @@
 ООП.
 Домашнее задание
+![image](https://github.com/raiskiilya/TestGit/assets/31303485/12b2f2a9-e29e-4ab6-a9d2-f099064d8544)
 Реализация консольного приложения с набором методов CRUD-операций.
 Начальные данные
 Имеется файл с начальными данными
@@ -14,7 +15,6 @@ disney-princesses.txt
 
 Формат строки:
 NUMBER | NAME | AGE | HAIRCOLOR | EYECOLOR
-![image](https://github.com/raiskiilya/TestGit/assets/31303485/12b2f2a9-e29e-4ab6-a9d2-f099064d8544)
 git add -A
 git commit -m "commit"
 git push
